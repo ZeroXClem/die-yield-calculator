@@ -69,7 +69,6 @@ nosetests.xml
 *.csv
 *.tsv
 *.json
-*.txt
 
 # Python specific files
 *.pyc
