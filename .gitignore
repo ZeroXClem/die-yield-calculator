@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+develop-eggs/
+*.egg-info/
+*.egg
+*.whl
+MANIFEST
+
+# Installer and other build files
+*.manifest
+*.spec
+
+# Environments
+.env
+venv/
+env/
+ENV/
+virtualenv/
+virtualenv-env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Unit test / coverage reports
+.pytest_cache
+*.prof
+.coverage
+coverage.xml
+*.cover
+nosetests.xml
+
+# Translations
+*.mo
+
+# OS or Editor related files
+.DS_Store
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+.cache
+*.orig
+*.rej
+
+# IDE / Project files
+.idea
+*.iml
+*.pydevproject
+*.project
+
+# Log files
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.txt
+
+# Python specific files
+*.pyc
+
+# Temp Files
+*.tmp
+*.bak
+
+# Specific folder(s)
+/data/
+/docs/_build/
+
+
+# OS/Project Specific Files (you can add/remove based on your specific OS or project)
+# macOS:
+.Trashes
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
