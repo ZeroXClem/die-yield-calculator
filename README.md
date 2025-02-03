@@ -74,5 +74,4 @@ This Streamlit application simulates die yield calculation on a wafer or panel. 
 -   Critical area represents the area that is sensitive to defects.
 -   Experiment with different yield models to see how they affect the yield calculation.
 
-This README provides a detailed overview of the application. Use it as a starting point for understanding and modifying the application to your specific needs.
 
